@@ -1,0 +1,7 @@
+{
+    "version": "0.1.0",
+    "command": "C:\\Users\\hidayatullahap\\AppData\\Local\\Programs\\Python\\Python35-32\\python",
+    "isShellCommand": true,
+    "args": ["${file}"],
+    "showOutput": "always"
+}
